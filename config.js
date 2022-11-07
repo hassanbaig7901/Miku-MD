@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['03057359675']
+global.OwnerNumber = ['03057359675']
+global.ownertag = ['03057359675']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.OwnerName = "Hassan"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "West Bengal, India"
+global.location = "ICET"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
