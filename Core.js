@@ -3597,6 +3597,11 @@ Miku.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${tik}%*`
 case 'awesomecheck':
   case 'greatcheck':
    case 'phophocheck':
+   case 'haramdacheck':
+   case 'thurkicheck':
+   case 'dullacheck':
+   case 'teelicheck':
+   case 'chumchacheck':
     case 'gaycheck':
       case 'cutecheck':
           case 'lesbiancheck':
