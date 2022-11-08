@@ -3595,20 +3595,22 @@ Miku.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${tik}%*`
 					break
 
 case 'awesomecheck':
-  case 'greatcheck':
-   case 'phuphocheck':
-   case 'haramdacheck':
-   case 'thurkicheck':
-   case 'dullacheck':
-   case 'teelicheck':
-   case 'chumchacheck':
-    case 'gaycheck':
-      case 'cutecheck':
-          case 'lesbiancheck':
-             case 'hornycheck':
-                 case 'prettycheck':
-                    case 'lovelycheck':
-                      case 'uglycheck':
+case 'greatcheck':
+	case 'phuphocheck':
+	case 'haramdacheck':
+	case 'thurkicheck':
+	case 'dullacheck':
+	case 'teelicheck':
+	case 'chumchacheck':
+	case 'bhondacheck':
+	case 'namakharamcheck':
+case 'gaycheck':
+case 'cutecheck':
+case 'lesbiancheck':
+case 'hornycheck':
+case 'prettycheck':
+case 'lovelycheck':
+case 'uglycheck':
                         if (isBan) return reply(mess.banned)
                         if (isBanChat) return reply(mess.bangc)
 				if (!text) return replay(`Tag Someone, Example : ${prefix + command} @Fantox`)
