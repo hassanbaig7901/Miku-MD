@@ -4761,10 +4761,6 @@ bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, 
 
 play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
 
-// *━━━〈  🈴 Weeb 🈴  〉━━━*
-
-//crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
-
  *━━━〈  ♨️ Informative ♨️  〉━━━*
 
 animequote, quote, covid, earthquake, wiki
@@ -4780,13 +4776,6 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
  *━━━〈  🪁 Essentials 🪁  〉━━━*
 
 qr, say, translate, fliptext, toletter
-
-// *━━━〈  💥 NSFW 💥  〉━━━*
-
-//🍁 Type " *${prefix}nsfw* " then enable NSFW (Admin only!) 
-
-//🍁 Then type " *${prefix}nsfwmenu* " to get full list of NSFW commands.
-
 
 
 
