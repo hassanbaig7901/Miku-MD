@@ -3593,17 +3593,19 @@ case 'beautifulcheck':
 					const tik = can[Math.floor(Math.random() * can.length)]
 Miku.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${tik}%*` }, { quoted: m })
 					break
-
+//Paki Checks
+case 'phuphocheck':
+case 'haramdacheck':
+case 'thurkicheck':
+case 'saraikicheck':
+case 'teelicheck':
+case 'chumchacheck':
+case 'pathancheck':
+case 'haramicheck':
+case 'namakharamcheck':
+//Bot Checks
 case 'awesomecheck':
 case 'greatcheck':
-	case 'phuphocheck':
-	case 'haramdacheck':
-	case 'thurkicheck':
-	case 'dullacheck':
-	case 'teelicheck':
-	case 'chumchacheck':
-	case 'bhondacheck':
-	case 'namakharamcheck':
 case 'gaycheck':
 case 'cutecheck':
 case 'lesbiancheck':
@@ -4773,7 +4775,7 @@ stickermeme, quotes, darkjoke
 
  *━━━〈  🎐 Fun 🎐  〉━━━*
 
-reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
+reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, chumchacheck, cutecheck, phuphocheck, thurkicheck, prettycheck, lovelycheck, uglycheck, charactercheck, namakharamcheck 
 
  *━━━〈  🪁 Essentials 🪁  〉━━━*
 
